@@ -1,0 +1,23 @@
+[
+    {
+        "title":"Ride-on R15 V4 with Smile",
+        "_id":2344433,
+        "category": "Cameras",
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus sequi ut consequuntur veritatis cum fugit inventore itaque quidem natus",
+        "image": "https://i.ibb.co.com/9g3D2h7/33721726-bike016-elscar-rtr-5147-1-removebg-preview.png"
+    },
+    {
+        "title":"Ride-on R15 V4 with Smile",
+        "_id":23343433,
+        "category": "Electronics",
+        "details": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+        "image": "https://i.ibb.co.com/fx312YG/33983747-bike007-elscar-rtr-4779-1.png"
+    },
+    {
+        "title":"Ride-on R15 V4 with Smile",
+        "_id":23546533,
+        "category": "Headphone",
+        "details": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+        "image": "https://i.ibb.co.com/9g3D2h7/33721726-bike016-elscar-rtr-5147-1-removebg-preview.png"
+    }
+]
