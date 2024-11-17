@@ -10,6 +10,8 @@ import {
 } from "react-router-dom";
 import Main from './layouts/Main.jsx';
 import Home from './pages/Home/Home/Home.jsx';
+import Login from './pages/Login/Login.jsx';
+import SingUp from './pages/SingUp/SingUp.jsx';
 
 const router =  createBrowserRouter([
   {
@@ -19,6 +21,14 @@ const router =  createBrowserRouter([
       {
         path: "/",
         element: <Home></Home>
+      },
+      {
+        path: "login",
+        element: <Login></Login>
+      },
+      {
+        path: "singUp",
+        element: <SingUp></SingUp>
       }
     ]
   }

@@ -47,7 +47,7 @@ const Navbar = () => {
                             {navOptions}
                         </ul>
                     </div>
-                    <a href='#' className=" text-3xl font-bold">Bike Dekho</a>
+                    <a href='#' className=" text-3xl font-bold">BikeZone</a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1  text-xl font-medium">
@@ -55,7 +55,7 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="bg-[#E76F51] text-white px-8 pt-2 pb-3 rounded-md text-xl font-medium cursor-pointer hover:bg-white border border-[#E76F51] duration-500 hover:text-[#E76F51]">Login</a>
+                    <Link to="/login" className="bg-[#E76F51] text-white px-8 pt-2 pb-3 rounded-md text-xl font-medium cursor-pointer hover:bg-white border border-[#E76F51] duration-500 hover:text-[#E76F51]">Login</Link>
                 </div>
             </div>
         </div>

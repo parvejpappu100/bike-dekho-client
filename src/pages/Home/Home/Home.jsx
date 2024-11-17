@@ -3,6 +3,7 @@ import Banner from '../../../components/Banner/Banner';
 import FeaturedBike from '../FeaturedBike/FeaturedBike';
 import News from '../News/News';
 import ClientSays from '../ClientSays/ClientSays';
+import Faq from '../Faq/Faq';
 
 const Home = () => {
     return (
@@ -11,6 +12,7 @@ const Home = () => {
            <FeaturedBike></FeaturedBike>
            <News></News>
            <ClientSays></ClientSays>
+           <Faq></Faq>
         </div>
     );
 };
