@@ -16,7 +16,7 @@ const News = () => {
             <div className='grid grid-cols-1 md:grid-cols-3 gap-8 mt-24'>
                 {
                     blogs.map(blog => <div key={blog._id}>
-                        <div className='border p-5'>
+                        <div className='border p-5 shadow'>
                             <img src={blog.image} alt="" />
                             <h3  className='text-2xl font-bold mt-5'>{blog.title}</h3>
                             <p className='my-4'>{blog.details}</p>
