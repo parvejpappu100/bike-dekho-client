@@ -1,0 +1,20 @@
+[
+    {
+        "_id": 1,
+        "image": "https://i.ibb.co.com/CbJfwqG/Project-Cover.png",
+        "title": "Ducati XDIAVEL S-73",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lacus, fermentum amet faucibus sed id nisi lectus at."
+    },
+    {
+        "_id": 6767,
+        "image": "https://i.ibb.co.com/KVS7f2W/Project-Cover-1.png",
+        "title": "Motorcycles & Scooters",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lacus, fermentum amet faucibus sed id nisi lectus at."
+    },
+    {
+        "_id": 89,
+        "image": "https://i.ibb.co.com/vxSmvwQ/Project-Cover-2.png",
+        "title": "2021 Honda CBR500R",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lacus, fermentum amet faucibus sed id nisi lectus at."
+    }
+]
